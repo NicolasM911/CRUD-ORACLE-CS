@@ -44,13 +44,13 @@ Modelamiento de Bases de Datos 2022
 
         private void btnConectar_Click(object sender, EventArgs e)
         {
-            conex.conexion();
+            conex.conexion2();
             conex.CerrarConexion();
         }
 
         private void btnMostrar_Click(object sender, EventArgs e)
         {
-            conex.conexion();
+            conex.conexion2();
             DataTable dt = new DataTable();
             try
             {
@@ -85,7 +85,9 @@ Modelamiento de Bases de Datos 2022
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
-
+            FrmCh f4 = new FrmCh();
+            f4.Show();
+            this.Hide();
         }
     }
 }

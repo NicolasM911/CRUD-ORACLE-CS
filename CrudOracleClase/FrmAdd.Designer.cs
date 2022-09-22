@@ -40,7 +40,6 @@
             this.txtAddUser.Name = "txtAddUser";
             this.txtAddUser.Size = new System.Drawing.Size(265, 26);
             this.txtAddUser.TabIndex = 0;
-            this.txtAddUser.TextChanged += new System.EventHandler(this.txtAddUser_TextChanged);
             // 
             // txtAddPass
             // 
@@ -48,7 +47,6 @@
             this.txtAddPass.Name = "txtAddPass";
             this.txtAddPass.Size = new System.Drawing.Size(265, 26);
             this.txtAddPass.TabIndex = 1;
-            this.txtAddPass.TextChanged += new System.EventHandler(this.txtAddPass_TextChanged);
             // 
             // btnAgregar2
             // 

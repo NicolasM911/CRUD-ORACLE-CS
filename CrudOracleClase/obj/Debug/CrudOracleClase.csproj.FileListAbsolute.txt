@@ -11,3 +11,17 @@ D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.e
 D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.pdb
 D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.FrmAdd.resources
 D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.FrmDel.resources
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\bin\Debug\CrudOracleClase.exe.config
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\bin\Debug\CrudOracleClase.exe
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\bin\Debug\CrudOracleClase.pdb
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.Form1.resources
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.FrmAdd.resources
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.FrmCh.resources
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.FrmDel.resources
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.exe
+C:\Users\USUARIO\source\repos\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.pdb

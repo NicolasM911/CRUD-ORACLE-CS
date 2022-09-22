@@ -23,6 +23,20 @@ namespace CrudOracleClase
             {
                 ObjCon = new OracleConnection($"data source={servidor}; user id={Usuario} ; password={Pass}");
                 ObjCon.Open();
+                //MessageBox.Show($"Conexion Exitosa: {ObjCon.State}\nCreado por Nicolás Mahecha Pérez \nModelamiento de Bases de Datos 2022\nVersion: {ObjCon.ServerVersion} \n{ObjCon.Container}");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al conectar{ex}");
+            }
+        }
+
+        public void conexion2()
+        {
+            try
+            {
+                ObjCon = new OracleConnection($"data source={servidor}; user id={Usuario} ; password={Pass}");
+                ObjCon.Open();
                 MessageBox.Show($"Conexion Exitosa: {ObjCon.State}\nCreado por Nicolás Mahecha Pérez \nModelamiento de Bases de Datos 2022\nVersion: {ObjCon.ServerVersion} \n{ObjCon.Container}");
             }
             catch (Exception ex)
@@ -30,6 +44,7 @@ namespace CrudOracleClase
                 MessageBox.Show($"Error al conectar{ex}");
             }
         }
+
         //metodo cerrar conexion
         public void CerrarConexion()
         {

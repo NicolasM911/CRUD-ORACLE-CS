@@ -57,15 +57,5 @@ Modelamiento de Bases de Datos 2022
 ");
             System.Windows.Forms.Application.Exit();
         }
-
-        private void txtAddPass_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtAddUser_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
