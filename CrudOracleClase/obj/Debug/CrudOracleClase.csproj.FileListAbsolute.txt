@@ -1,0 +1,13 @@
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\bin\Debug\CrudOracleClase.exe.config
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\bin\Debug\CrudOracleClase.exe
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\bin\Debug\CrudOracleClase.pdb
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.csproj.AssemblyReference.cache
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.csproj.SuggestedBindingRedirects.cache
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.Form1.resources
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.Properties.Resources.resources
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.csproj.GenerateResource.cache
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.csproj.CoreCompileInputs.cache
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.exe
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.pdb
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.FrmAdd.resources
+D:\crud-oracle-clase\CrudOracleClase\CrudOracleClase\obj\Debug\CrudOracleClase.FrmDel.resources

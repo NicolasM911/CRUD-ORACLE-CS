@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudOracleClase", "CrudOracleClase\CrudOracleClase.csproj", "{3EF6CF39-3CB4-4112-B4CC-0979B470572C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF6CF39-3CB4-4112-B4CC-0979B470572C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF6CF39-3CB4-4112-B4CC-0979B470572C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF6CF39-3CB4-4112-B4CC-0979B470572C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF6CF39-3CB4-4112-B4CC-0979B470572C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E3A759-AC49-4B73-8C6D-838B0A74211F}
+	EndGlobalSection
+EndGlobal
