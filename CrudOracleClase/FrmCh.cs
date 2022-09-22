@@ -41,7 +41,7 @@ Modelamiento de Bases de Datos 2022
                 command.Parameters.Add("nom", OracleType.VarChar).Value = txtCHUSER.Text;
                 command.Parameters.Add("cont", OracleType.VarChar).Value = txtCHPASS.Text;
                 command.ExecuteNonQuery();
-                MessageBox.Show("Persona Modificada correctamente");
+                MessageBox.Show($"Persona {txtCHUSER.Text} Modificada correctamente");
                 this.Hide();
                 Form1 f1 = new Form1();
                 f1.Show();

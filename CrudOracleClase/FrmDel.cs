@@ -29,7 +29,7 @@ namespace CrudOracleClase
                 command.CommandType = System.Data.CommandType.StoredProcedure;
                 command.Parameters.Add("idp", OracleType.Number).Value = Convert.ToInt32(txtDelUserID.Text);
                 command.ExecuteNonQuery();
-                MessageBox.Show("Persona Eliminada correctamente");
+                MessageBox.Show($"ID Persona {txtDelUserID.Text} Eliminada correctamente");
                 this.Hide();
                 Form1 f1 = new Form1();
                 f1.Show();

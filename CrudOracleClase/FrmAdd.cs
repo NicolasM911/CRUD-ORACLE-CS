@@ -34,7 +34,7 @@ namespace CrudOracleClase
                 OracleCommand command = new OracleCommand(sql, conex.RegresaConexion());
                 command.CommandType = System.Data.CommandType.StoredProcedure;
                 command.ExecuteNonQuery();
-                MessageBox.Show("Persona agregada correctamente");
+                MessageBox.Show($"Persona {txtAddUser.Text} agregada correctamente");
                 this.Hide();
                 Form1 f1 = new Form1();
                 f1.Show();
